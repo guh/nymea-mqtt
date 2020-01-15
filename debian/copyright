@@ -1,0 +1,34 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: nymea-mqtt
+Upstream-Contact: Michael Zanetti <michael.zanetti@nymea.io>
+Copyright: 2018-2019, guh GmbH
+Download: http://www.github.com/guh/nymea-mqtt
+Source: https://github.com/guh/nymea-mqtt.git
+
+
+License: GPL-3
+ On Debian systems, the complete text of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-3'.
+
+License: LGPL-3
+ On Debian systems, the complete text of the GNU Lesser General
+ Public License can be found in `/usr/share/common-licenses/LGPL-3'.
+
+License: Commercial
+ Contact https://www.nymea.io/licensing/ for commercial licensing.
+
+Files: libnymea-mqtt/*
+License: LGPL-3 | Commercial
+Copyright: 2018-2019, Michael Zanetti <michael.zanetti@nymea.io>
+
+Files: server/*
+License: GPL-3 | Commercial
+Copyright: 2018-2019, Michael Zanetti <michael.zanetti@nymea.io>
+
+Files: tests/*
+License: GPL-3 | Commercial
+Copyright: 2018-2019, Michael Zanetti <michael.zanetti@nymea.io>
+
+Files: debian/*
+License: GPL-3
+Copyright: 2018-2019, Michael Zanetti <michael.zanetti@nymea.io>

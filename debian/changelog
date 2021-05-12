@@ -1,3 +1,10 @@
+nymea-mqtt (0.1.9) xenial; urgency=medium
+
+  [ Michael Zanetti ]
+  * Drop build dependency to qt5-default
+
+ -- Jenkins <jenkins@nymea.io>  Wed, 12 May 2021 13:58:06 +0200
+
 nymea-mqtt (0.1.8) xenial; urgency=medium
 
   [ Michael Zanetti ]

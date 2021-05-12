@@ -3,7 +3,6 @@ Section: comm
 Priority: optional
 Maintainer: Michael Zanetti <michael.zanetti@guh.io>
 Build-Depends: debhelper,
-               qt5-default,
                qtbase5-dev,
 Standards-Version: 4.0.0
 Homepage: http://nymea.io
